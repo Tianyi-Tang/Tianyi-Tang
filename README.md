@@ -6,4 +6,5 @@
         <h3><a href="https://github.com/Tianyi-Tang/Paws-Pumpkins" style="color: #ffc107;">🔥 Paws-Pumpkins</a></h3>
         <p> 2D Pac-Man game developed by java and whish it can be show</p>
         <p>Language: Java</p>
+    </div>
 </div>
