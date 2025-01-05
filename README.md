@@ -1,5 +1,5 @@
-## Hi here is Tianyi 👋
-My name is Tianyi Tang, you can also call me Andy. 
+## Hi here is Andy.Tang 👋
+My name is Andy.Tang, you can also call me Andy. 
 
 🔭 I'm currently study computer science at Simon Fraser University
 
